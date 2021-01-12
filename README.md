@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working at **De Marke Labs as Frontend Developer**
 
-- 👯 I’m looking to collaborate on [Movie Api on NodeJS Express](https://github.com/osmancansiz/movie-api)
-
 - 👨‍💻 All of my projects are available at [https://github.com/osmancansiz?tab=repositories](https://github.com/osmancansiz?tab=repositories)
 
 - ⚡ Fun fact **I love learning other techs and frameworks**
